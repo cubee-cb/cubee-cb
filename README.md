@@ -7,7 +7,7 @@ Hi, I’m cubee!
 
 Yes, this is pretty much the default Github profile readme template. What more do I want to say though?
 ...
-![willow and cb cat spinning](https://cubee.games/img/loadingwheel.gif "Willow and CB spinning gif")
+![willow and cb cat spinning](https://cubee.games/img/loadingwheel.gif "Willow and CB the cat spinning gif")
 
 
 <!---
