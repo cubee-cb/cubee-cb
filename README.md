@@ -5,6 +5,11 @@ Hi, I’m cubee!
 - You can find a list of my profiles on my [website](https://cubee.games/?rel=links), or see the few that are linked on my profile here!
 - Fun fact: I made Terra - A Terraria Demake.
 
+Yes, this is pretty much the default Github profile readme template. What more do I want to say though?
+...
+![willow and cb cat spinning](https://cubee.games/img/loadingwheel.gif "Willow and CB spinning gif")
+
+
 <!---
 cubee-cb/cubee-cb is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
