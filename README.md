@@ -2,6 +2,8 @@ Hi, I’m cubee!
 
 - I’m interested in game development, drawing, VR tech, and attempting to make stuff run on things they're not supposed to. (Beat Saber for PICO-8, anyone?)
 - I've made quite a few small games. A few of my best projects include Ninja Cat Remewstered for Windows/Linux/Android, and Tomorrow's Vege-Mallet Therapy and BEATWISE TRIGGER for the PICO-8 fantasy console.
+- Plotter of pixels and lines. (that means I do pixel and digital art)
+- I occasionally attempt to make some music, most of it isn't very good but occasionally I come up with something great. (that's how most things go, though)
 - You can find a list of my profiles on my [website](https://cubee.games/?rel=links), or see the few that are linked on my profile here!
 - Also, I made Terra - A Terraria Demake.
 
