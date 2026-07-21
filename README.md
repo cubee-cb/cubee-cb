@@ -2,7 +2,7 @@ Hi, I’m cubee!
 
 - I’m interested in game development, drawing, VR tech, 3D art as a whole, and sometimes attempting to make stuff run on things they're not supposed to. (how about Beat Saber for the PICO-8 fantasy console?)
 - I've made quite a few games, usually as part of game jams. Some of my personal favorites include:
-  - [Ninja Cat Remewstered](https://store.steampowered.com/app/4409630/Ninja_Cat_Remewstered), a fast-paced platformer. (coming soon to Steam!)
+  - [Ninja Cat Remewstered](https://store.steampowered.com/app/4409630/Ninja_Cat_Remewstered), a fast-paced platformer. (out now on Steam!)
   - [Tomorrow's Vege-Mallet Therapy](https://cubeegames.itch.io/tomorrows-vege-mallet-therapy-in-20-seconds-or-less), a 20-second speed platformer with style.
   - [BEATWISE TRIGGER](https://cubeegames.itch.io/a-rhythm-based-dungeon-crawler), a rhythm-based dungeon crawler.
 - Sometimes a pixel artist, sometimes.. what would you call them? A digital artist? -> I like to draw and you'll usually see this in my profile images :)
